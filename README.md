@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on music [DRM]([https://www.google.com](https://en.wikipedia.org/wiki/Digital_rights_management) "Digital rights management") backend on client(C++) - (this line maybe is not updated when you read it.)
+- 🌱 I’m currently learning Ultra low latency topics in C++ , Unreal Engine 5  and Germany language.
+- 👯 I’m looking to collaborate on projects that is using (Unreal | 3d concepts | low latency concepts) & modern C++ (>14). 
+
+### 🤔 I’m looking for a C++ job vacancy.
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc-one&layout=compact&show_icons=true) 
+
 <!--
 **SC-One/SC-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![SC-One](https://github-readme-stats.vercel.app/api?username=SC-One&show_icons=true&theme=shades-of-purple)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc-one&layout=compact)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sc-One&theme=dark&hide_border=true)](https://git.io/streak-stats)
+-->
