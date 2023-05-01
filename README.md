@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on music [DRM]([https://www.google.com](https://en.wikipedia.org/wiki/Digital_rights_management) "Digital rights management") backend on client(C++) - (this line maybe is not updated when you read it.)
 - 👯 I’m looking to collaborate on projects that is using (Unreal | 3d concepts | low latency concepts) & modern C++ (>14). 
 
-### 🤔 I’m looking for a C++ job vacancy.(remote positions).
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc-one&layout=compact&show_icons=true) 
 
@@ -12,6 +11,7 @@
 
 
 <!--
+### 🤔 I’m looking for a C++ job vacancy.(remote positions).
 **SC-One/SC-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
