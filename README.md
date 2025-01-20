@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - I love to find minor changes that make big optimize! , latest code(did not documented yet): [Best structure holding in contianers to have better cache hits ](https://gist.github.com/SC-One/328f3b0e6d75b5454d18b7e9bbda45fd)
-- 🔭 I’m currently working on music [DRM]([https://www.google.com](https://en.wikipedia.org/wiki/Digital_rights_management) "Digital rights management") backend on client(C++) - (this line maybe is not updated when you read it.)
-- 👯 I’m looking to collaborate on projects that is using (Unreal | 3d concepts | low latency concepts) & modern C++ (>14). 
+- I’m currently learning AI/ComputerVision/Trading/BlockChain/Web3
 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc-one&layout=compact&show_icons=true) 
